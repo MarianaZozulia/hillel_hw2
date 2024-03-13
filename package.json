@@ -1,0 +1,19 @@
+{
+  "name": "hillel_hw2",
+  "version": "1.0.0",
+  "description": "node based project",
+  "main": "hello.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianaZozulia/hillel_hw2.git"
+  },
+  "author": "Mariana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianaZozulia/hillel_hw2/issues"
+  },
+  "homepage": "https://github.com/MarianaZozulia/hillel_hw2#readme"
+}
